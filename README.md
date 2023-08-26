@@ -1,8 +1,6 @@
-[![MasterHead](https://cs.ucdavis.edu/sites/g/files/dgvnsk8441/files/styles/sf_landscape_16x9/public/2020-03/Brain_anatomy_medical_head_skull_digital_3_d_x_ray_xray_psychedelic_3720x2631_0.jpg?h=47a1873b&itok=t3tmuiaN)](https://swchoi1994.github.io/)
-
 <h1 align="center">Hi 👋, I'm Seongwoo Choi (최성우)</h1>
 <h3 align="center">A passionate AI Researcher from Korea Republic</h3>
-<img align="right" alt="Coding" width="400" src="https://avatars.githubusercontent.com/u/15826122?v=4">
+<!-- <img align="right" alt="Coding" width="400" src="https://avatars.githubusercontent.com/u/15826122?v=4"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swchoi1994&label=Profile%20views&color=0e75b6&style=flat" alt="swchoi1994" /> </p>
 
@@ -31,11 +29,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/swchoi1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swchoi1994" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/swchoi1994/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swchoi1994/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/swchoi1994/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swchoi1994/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/swchoi1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="swchoi1994" height="30" width="40" /></a>
 <a href="https://kaggle.com/swchoi1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="swchoi1994" height="30" width="40" /></a>
-<a href="https://instagram.com/swchoi9492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swchoi9492" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucy5eshgvif69udf7xdxma3g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucy5eshgvif69udf7xdxma3g" height="30" width="40" /></a>
+<a href="https://instagram.com/swchoi1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swchoi9492" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucy5eshgvif69udf7xdxma3g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucy5eshgvif69udf7xdxma3g" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/swchoi1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swchoi1994" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swchoi199492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swchoi199492" height="30" width="40" /></a>
 <a href="/https://swchoi1994.github.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://swchoi1994.github.io/feed.xml" height="30" width="40" /></a>

@@ -1,49 +1,148 @@
-<h1 align="center">Hi 👋, I'm Seongwoo Choi (최성우)</h1>
-<h3 align="center">A passionate AI Researcher from Korea Republic</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://avatars.githubusercontent.com/u/15826122?v=4"> -->
+# Hi 👋, I'm Seongwoo Choi (최성우)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swchoi1994&label=Profile%20views&color=0e75b6&style=flat" alt="swchoi1994" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swchoi1994" alt="swchoi1994" /></a> </p>
+### 🧠 AI Research Engineer | 🎓 UPenn MS AI Student | 🚀 Former Intel GPU Solutions Architect
 
-<p align="left"> <a href="https://twitter.com/swchoi1994" target="blank"><img src="https://img.shields.io/twitter/follow/swchoi1994?logo=twitter&style=for-the-badge" alt="swchoi1994" /></a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swchoi1994/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swchoi1994@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/swchoi1994?label=Follow&style=social)](https://github.com/swchoi1994)
 
-- 🔭 I’m currently working on **AI Research**
+</div>
 
-- 🌱 I’m currently learning **Artificial Intelligence, Deep Learning, React, Next JS, React Native, SwiftUI**
+## 🎯 About Me
 
-- 👯 I’m looking to collaborate on [SwiftUI](https://youtube.com/shorts/EJmhuDp-4yc?feature=share)
+I'm an AI Research Engineer at **LG CNS** and currently pursuing my **Master's in AI at University of Pennsylvania** (Fall 2025 ~ ). With experience spanning from GPU architecture optimization at **Intel Corporation** to deploying enterprise-scale generative AI solutions, I'm passionate about bridging the gap between cutting-edge research and real-world applications.
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/swchoi1994/](https://www.github.com/swchoi1994/)
+- 🔬 **Current Focus**: Generative AI, RAG Systems, GPU Computing, Distributed ML
+- 🎓 **Education**: MS AI @ UPenn (2025-2027), MS CS @ UC Davis (2022), BS CS @ UC Santa Cruz (2017)
+- 🌍 **Languages**: Korean (Native), English (Fluent), Mandarin (Advanced), Spanish (Elementary)
+- 🎯 **Interests**: Large Language Models, Computer Vision, GPU Architecture, MLOps
 
-- 💬 Ask me about **deep learning**
+## 🔥 What I'm Working On
 
-- 📫 How to reach me **swchoi1994@gmail.com**
+- 🤖 **Deploying in-house generative AI solutions** on GitLab at LG CNS
+- 📚 **Building RAG applications** with LangChain, Azure OpenAI, and vector databases
+- 🎓 **Mastering advanced AI coursework** at UPenn (NLP, Deep Learning, Computer Vision)
+- ⚡ **Optimizing GPU workloads** for ML training and inference
+- 🔬 **Contributing to Apache ResilientDB** blockchain research
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 💼 Professional Experience
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/swchoi1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swchoi1994" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/swchoi1994/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swchoi1994/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/swchoi1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="swchoi1994" height="30" width="40" /></a>
+**🏢 LG CNS** - *AI Research Engineer* (2023 - Present)
+- Engineering RAG applications with Python, LangChain, and Azure OpenAI
+- Developing Custom Copilot Solutions using Microsoft Copilot Studio
+- Designing scalable training environments for large models (Phind CodeLlaMA 34B-v2)
+- Leading Azure OpenAI architecture demonstrations to executives
 
-<a href="https://instagram.com/swchoi1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swchoi9492" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucy5eshgvif69udf7xdxma3g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucy5eshgvif69udf7xdxma3g" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/swchoi1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swchoi1994" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/swchoi199492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swchoi199492" height="30" width="40" /></a>
+**🔧 Intel Corporation** - *GPU Solutions Architect / AI Research Engineer* (2022)
+- Optimized cloud gaming workloads and GPU performance analysis
+- Developed automation tools for performance benchmarking using PowerShell
+- Researched Graph Neural Networks with PyTorch Geometric
+- Enhanced deep learning model performance achieving 5x training speedup
 
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/swchoi1994"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="swchoi1994" /></a></p><br><br>
+### **AI/ML & Data Science**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swchoi1994&show_icons=true&locale=en&layout=compact" alt="swchoi1994" /></p>
+### **Cloud & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swchoi1994&show_icons=true&locale=en" alt="swchoi1994" /></p>
+### **Specialized Tools**
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swchoi1994&" alt="swchoi1994" /></p>
+## 📊 Research & Publications
+
+**📄 Recent Publications:**
+- *"Predictive Modeling of Charge Levels for Battery Electric Vehicles using CNN EfficientNet"* (ArXiv, 2022)
+- *"A Deep Learning Technique using Follow Up X-Rays for Disease Classification"* (ArXiv, 2022)
+- *"Influence of Communication Among Shared Developers on OSS Productivity"* (ArXiv, 2022)
+
+**🏆 Notable Achievements:**
+- **Apache ResilientDB Initial Contributor** - Listed on Apache Incubator Project (2023)
+- **Best Contributor** - UC Davis CS Graduate Entrepreneurship Club (2022)
+- **Google TensorFlow Developer Certified**
+
+## 🎯 Key Projects
+
+### 🤖 **Enterprise RAG System**
+*Python, LangChain, Azure OpenAI, Vector Databases*
+- Built production-ready RAG application for document extraction
+- Optimized PDF parsing performance comparing PyPDFLoader vs UnstructuredLoader
+- Integrated Chroma and FAISS vector databases for efficient retrieval
+
+### 🔗 **Blockchain Financial Transaction Platform**
+*React, TypeScript, Cardano APIs, Firebase*
+- Developed decentralized financial transaction web application
+- Integrated Cardano blockchain with BlockFrost.io APIs for security
+- Implemented user authentication and real-time transaction processing
+
+### ⚡ **CUDA to DPC++ Migration**
+*Intel oneAPI, DPC++, Performance Optimization*
+- Migrated NVIDIA CUDA applications to Intel oneAPI DPC++
+- Achieved 2.5x runtime performance improvement
+- Optimized for Intel CPU architecture using Intel libraries
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swchoi1994&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swchoi1994&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swchoi1994&theme=radical&hide_border=true&background=0d1117)
+
+</div>
+
+## 🎓 Continuous Learning
+
+**🔮 Currently Learning:**
+- Advanced GPU Computing for ML Systems
+- Distributed Systems Architecture  
+- LLM Fine-tuning and RLHF
+- Kubernetes & Container Orchestration
+
+**📜 Certifications:**
+- Google TensorFlow Developer Certificate
+- Intel OpenCL & OpenVINO Specializations
+- Deep Learning Specialization (Deeplearning.ai)
+- Google Data Analytics Professional Certificate
+
+## 🤝 Let's Connect!
+
+I'm always excited to collaborate on AI research, discuss the latest in machine learning, or explore opportunities in GPU computing and distributed systems. Feel free to reach out!
+
+- 💼 [LinkedIn](https://linkedin.com/in/swchoi1994/)
+- 📧 [Email](mailto:swchoi1994@gmail.com)
+- 🐦 [Twitter](https://twitter.com/swchoi1994)
+- 📺 [YouTube](https://www.youtube.com/channel/ucy5eshgvif69udf7xdxma3g)
+
+---
+
+<div align="center">
+
+*"Building the future of AI, one algorithm at a time"* 🚀
+
+[![Profile Views](https://komarev.com/ghpvc/?username=swchoi1994&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/swchoi1994)
+
+</div>

@@ -102,18 +102,6 @@ I'm an AI Research Engineer at **LG CNS** and currently pursuing my **Master's i
 - Achieved 2.5x runtime performance improvement
 - Optimized for Intel CPU architecture using Intel libraries
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swchoi1994&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swchoi1994&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swchoi1994&theme=radical&hide_border=true&background=0d1117)
-
-</div>
-
 ## 🎓 Continuous Learning
 
 **🔮 Currently Learning:**

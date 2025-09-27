@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🧠 AI Research Engineer | 🎓 UPenn MS AI Student | 🚀 Former Intel GPU Solutions Architect
+### 🧠 AI Research Engineer@LG CNS | 🎓 UPenn MSE-AI Student | 🚀 Former Intel GPU Solutions Architect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swchoi1994/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swchoi1994@gmail.com)

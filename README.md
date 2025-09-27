@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🧠 AI Research Engineer@LG CNS | 🎓 UPenn MSE-AI Student | 🚀 Former Intel GPU Solutions Architect
+### 🧠 AI Research Engineer @ LG CNS | 🎓 UPenn MSE-AI Student | 🚀 Former Intel GPU Solutions Architect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swchoi1994/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swchoi1994@gmail.com)
@@ -15,7 +15,7 @@
 I'm an AI Research Engineer at **LG CNS** and currently pursuing my **Master's in AI at University of Pennsylvania** (Fall 2025 ~ ). With experience spanning from GPU architecture optimization at **Intel Corporation** to deploying enterprise-scale generative AI solutions, I'm passionate about bridging the gap between cutting-edge research and real-world applications.
 
 - 🔬 **Current Focus**: Generative AI, RAG Systems, GPU Computing, Distributed ML
-- 🎓 **Education**: MS AI @ UPenn (2025-2027), MS CS @ UC Davis (2022), BS CS @ UC Santa Cruz (2017)
+- 🎓 **Education**: MSE AI @ UPenn (2025-2027), MS CS @ UC Davis (2022), BS CS @ UC Santa Cruz (2017)
 - 🌍 **Languages**: Korean (Native), English (Fluent), Mandarin (Advanced), Spanish (Elementary)
 - 🎯 **Interests**: Large Language Models, Computer Vision, GPU Architecture, MLOps
 
